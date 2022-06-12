@@ -2,6 +2,7 @@ class mani {
 
 		public static void main(string[] args){
 			system.out.println("this is a frist program here");
+			system.out.println("second change to check difference")
 }
 }
 	
