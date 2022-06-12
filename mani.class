@@ -1,0 +1,8 @@
+class mani {
+
+		public static void main(string[] args){
+			system.out.println("this is a frist program here");
+}
+}
+	
+			
